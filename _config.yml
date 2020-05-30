@@ -8,7 +8,7 @@ subtitle: 技术博客，记录点点滴滴
 description: 技术博客 并发编程 java 多线程 分布式
 keywords:
 author: bingver
-language: en
+language: zh-CN  # en 英文 zh-Hans 或 zh-CN 简体中文
 timezone: ''
 
 # URL
@@ -95,6 +95,12 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: next
 # landscape
+# 搜索
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
