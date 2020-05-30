@@ -7,7 +7,7 @@ title: 小胖的博客
 subtitle: 技术博客，记录点点滴滴
 description: 技术博客 并发编程 java 多线程 分布式
 keywords:
-author: bingver si
+author: bingver
 language: en
 timezone: ''
 
@@ -93,7 +93,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
+# landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
